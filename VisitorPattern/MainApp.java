@@ -2,8 +2,6 @@ package VisitorPattern;
 
 public class MainApp {
     public static void main(String[] args){
-        System.out.println("E-Commerce: Shipping Cost Calculations\n");
-
         Furniture furniture1 = new Furniture("Kitchen Chair","Chair", 19);
         Furniture furniture2 = new Furniture("Dining Table","Table", 72);
         Furniture furniture3 = new Furniture("Bedroom Table", "Table", 32);
